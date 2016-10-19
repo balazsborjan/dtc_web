@@ -1,0 +1,72 @@
+	body{ 
+		margin:0px;
+		}
+		
+	.details {
+		position: absolute;
+		top: 30%;
+		right: 0%;
+		padding: 20px;
+		text-align: center;
+		font-size: 30px;
+		vertical-align: middle;
+		}
+		
+	.details > img:hover{
+		background-color: white;
+		}
+		
+	.icon-facebook:before{
+		background-color: white;
+		content: "\f09a";
+		}		
+	
+	.prlx_lyr_1{
+		position:fixed;
+		background-image:url(css/Pictures/dtc_weblap_BACKGROUND.jpg) !important;
+		background-repeat: no-repeat; 
+		background-position: center center;
+		background-size: cover;
+		width: 100%;
+		height: 100%;
+		}
+		
+	.prlx_lyr_2{
+		position:fixed;
+		background-image:url(css/Pictures/dtc_weblap_LOGO.png) !important;
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: cover;
+		width: 100%;
+		height: 100%;
+		}
+		
+	table{
+		width: 32px;		
+		}
+	
+	#content_layer{
+		position:absolute;
+		top: 100%;
+		width: 100%;
+		color: white;
+		background-color: black;
+		}
+		
+	#mycarousel {
+		margin: 0;
+		height: 30%;
+		width: 100%;
+		}
+		
+	.carousel-inner{
+		margin: 0;
+		position: relative;
+		}
+				
+	.carousel-inner > .item > img {
+		margin: 0 auto;		
+		}
+			
+
+

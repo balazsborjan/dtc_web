@@ -1,0 +1,263 @@
+h1 {
+    color: white;
+}
+
+h3 {
+    color: #4A697B;
+}
+
+#rsvp_btn {
+    text-decoration: none;
+}
+
+#rsvp_btn:hover {
+    text-decoration: none;
+}
+
+.btn-sm {
+}
+
+.btn-sm:hover {
+}
+
+.wpic_navigation {
+    margin-bottom: 6%;
+    overflow: hidden;
+    visibility: hidden;
+}
+
+a:focus{
+    outline: none;
+}
+
+body{
+    margin:0px;
+    overflow-x: hidden;
+    background-color: black;
+}
+
+#background_row {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+
+#background_pic {
+    width: 100%;
+}
+
+#background_logo {
+    position: absolute;
+    width: 100%;
+}
+
+#details {
+    text-align: center;
+    font-size: 0px;
+    vertical-align: middle;
+    width: 100%;
+    margin-top: 0.3%;
+    height: 6%;
+}
+
+#details img{
+    padding-right: 1.2%;
+    opacity: 0.5;
+    border-style: none;
+    outline: 0;
+}
+
+#details img:hover{
+    opacity: 1;
+}
+
+#prlx_lyr_1{
+    position: fixed;
+    background-image: url(Pictures/dtc_weblap_BACKGROUND.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+#prlx_lyr_2{
+    position: fixed;
+    background-image: url(Pictures/dtc_weblap_LOGO.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+#one {
+    z-index: 1;
+    width:100%;
+    height: 6%;
+    position: fixed;
+    top: 94%;
+}
+
+#details_edge {
+    height: 6%;
+    position: absolute;
+    width: 100%;
+    top: 100%;
+    background-color: black;
+}
+
+#details_background {
+    z-index: 1;
+    width:100%;
+    height: 6%;
+    position: fixed;
+    top: 100%;
+    background-color: black;
+}
+
+#four{
+    align-content: center;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    top: 106%;
+    background-color: black;
+    color: black;
+}
+
+table{
+    width: 32px;
+}
+
+#mycarousel {
+    margin: 0;
+    height: 30%;
+    width: 100%;
+}
+
+#mycarousel .carousel-control {
+    visibility: hidden;
+}
+#mycarousel:hover .carousel-control {
+    visibility: visible;
+}
+
+.carousel-inner{
+    margin: 0;
+    position: relative;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+#container{
+    width: 100%;
+    position: relative;
+    margin-left: 17%;
+    margin-right: 17%;
+}
+
+#img1{
+    -webkit-transition: opacity 0.5s;
+    opacity: 1;
+    position: absolute;
+    width: 100%;
+}
+
+#img1:hover{
+    opacity: 0.1;
+}
+
+#img2{
+    width: 100%;
+}
+#img3{
+    -webkit-transition: opacity 0.5s;
+    opacity: 1;
+    position: absolute;
+    width: 100%;
+}
+#img3:hover{
+    opacity: 0.1;
+}
+#img4{
+    width: 100%;
+}
+#img5{
+    -webkit-transition: opacity 0.5s;
+    opacity: 1;
+    position: absolute;
+    width: 100%;
+}
+#img5:hover{
+    opacity: 0.1;
+}
+#img6{
+    width: 100%;
+}
+#img7{
+    -webkit-transition: opacity 0.5s;
+    opacity: 1;
+    position: absolute;
+    width: 100%;
+}
+#img7:hover{
+    opacity: 0.1;
+}
+#img8{
+    width: 100%;
+}
+#img9{
+    -webkit-transition: opacity 1s;
+    opacity: 1;
+    position: absolute;
+    width: 100%;
+}
+#img9:hover{
+    opacity: 0.1;
+}
+#img10{
+    width: 100%;
+}
+#img11{
+    -webkit-transition: opacity 0.5s;
+    opacity: 1;
+    position: absolute;
+    width: 100%;
+}
+#img11:hover{
+    opacity: 0.1;
+}
+#img12{
+    width: 100%;
+}
+
+#radioPicture {
+    width: 100%;
+}
+
+.table  {
+    color: white;
+}
+
+#podcast_row #tourdates_row {
+    padding-right: 1%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+
+.row.no-gutter {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.row.no-gutter [class*='col-']:not(:first-child),
+.row.no-gutter [class*='col-']:not(:last-child) {
+    padding-right: 1%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}

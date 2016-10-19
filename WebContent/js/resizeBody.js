@@ -1,0 +1,3 @@
+function resizeBody() {
+    location.reload();
+}
