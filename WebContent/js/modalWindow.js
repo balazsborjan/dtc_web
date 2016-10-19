@@ -1,5 +1,5 @@
 // Get the modal
-var modal = document.getElementById('myModal');
+var modal = document.getElementById('Modal_1');
 
 // Get the button that opens the modal
 var btn = document.getElementById("myBtn");
